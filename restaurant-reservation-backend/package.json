@@ -1,0 +1,21 @@
+{
+    "name": "restaurant-reservation-backend",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Sid253525",
+    "contributors": [],
+    "dependencies": {
+        "bcryptjs": "^3.0.2",
+        "body-parser": "^2.2.0",
+        "cors": "^2.8.5",
+        "express": "^5.1.0",
+        "jsonwebtoken": "^9.0.2",
+        "mysql2": "^3.14.1"
+    }
+}
